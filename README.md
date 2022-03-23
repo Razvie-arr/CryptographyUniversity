@@ -1,1 +1,1 @@
-Third year of university, introduction to the basics of cryptography
+Laboratory work for the third year of the university, an introduction to the basics of cryptography
